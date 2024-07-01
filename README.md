@@ -10,6 +10,8 @@ The file rus_detect contains code for training, validation, and testing the mode
 
 To view all the images used in the model or if you want to download the dataset, follow the link below.
 
+https://universe.roboflow.com/krasilnik-ivan/rus-detect
+
 
 
 
